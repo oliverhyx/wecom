@@ -1,0 +1,40 @@
+{
+  "name": "@neuit/wecom",
+  "version": "1.0.7",
+  "description": "用于管理企业微信的Node.js接口库",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "jest ./test/class/Concats/User.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliverhyx/wecom.git"
+  },
+  "keywords": [
+    "ERP",
+    "C-ERP",
+    "Guanyi",
+    "Node.js",
+    "API Client"
+  ],
+  "author": "宁波诺幺信息技术有限公司",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oliverhyx/wecom/issues"
+  },
+  "homepage": "https://github.com/oliverhyx/wecom#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "jest": {
+    "testEnvironment": "node",
+    "verbose": true
+  }
+}
