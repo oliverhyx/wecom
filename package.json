@@ -1,6 +1,6 @@
 {
   "name": "@neuit/wecom",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "用于管理企业微信的Node.js接口库",
   "main": "lib/main.js",
   "scripts": {
@@ -11,11 +11,9 @@
     "url": "git+https://github.com/oliverhyx/wecom.git"
   },
   "keywords": [
-    "ERP",
-    "C-ERP",
-    "Guanyi",
+    "企业微信",
     "Node.js",
-    "API Client"
+    "服务端"
   ],
   "author": "宁波诺幺信息技术有限公司",
   "license": "MIT",
