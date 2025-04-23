@@ -1,6 +1,6 @@
 {
   "name": "@neuit/wecom",
-  "version": "1.0.9",
+  "version": "1.0.20",
   "description": "用于管理企业微信的Node.js接口库",
   "main": "lib/main.js",
   "scripts": {
@@ -25,7 +25,8 @@
     "node": ">=14.0.0"
   },
   "dependencies": {
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@faker-js/faker": "^9.7.0",
