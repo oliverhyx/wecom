@@ -4,7 +4,8 @@
   "description": "用于管理企业微信的Node.js接口库",
   "main": "lib/main.js",
   "scripts": {
-    "test": "jest ./test/class/Concats/User.test.js"
+    "test": "jest ./test/class/Concats/User.test.js",
+    "test:cli": "node test/main.js"
   },
   "repository": {
     "type": "git",
